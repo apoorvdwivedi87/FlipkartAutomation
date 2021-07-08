@@ -1,0 +1,13 @@
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flipkart/base/BasePage.java
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flipkart/envSetUp/ConfigReader.java
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flipkart/base/Base.java
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flipkart/utility/AppUtilities.java
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flipkart/commons/Settings.java
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flipkart/commons/TakeScreenShots.java
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flipkart/browserFactory/BrowserFactory.java
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flpkart/extentReportManager/ExtentFactory.java
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flipkart/retryFailedTests/RetryAnalyzer.java
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flipkart/log/Logs.java
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flipkart/envSetUp/EnviornmentSetUp.java
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flipkart/base/BaseTest.java
+/Users/apoorvdwivedi/PracticeWorkSpace/flipkart/src/main/java/org/flipkart/webElementExtension/BrowserControls.java

@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="FlipkartTests">
+	<listeners>
+		<listener
+			class-name="org.flipkart.listeners.ExecutionListener" />
+		<listener class-name="org.flipkart.listeners.TestTransformer" />
+		<listener class-name="org.flipkart.listeners.TestListener" />
+	</listeners>
+	<test name="FlipkartTests" parallel="classes" thread-count="3">
+		<packages>
+			<package name="org.flipkart.tests" />
+		</packages>
+	</test>
+</suite>
